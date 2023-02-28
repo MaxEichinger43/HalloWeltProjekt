@@ -6,7 +6,7 @@ namespace HalloWeltProjekt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World! And Hello Moon!");
             Console.ReadKey();
         }
     }
